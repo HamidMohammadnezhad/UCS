@@ -23,7 +23,7 @@ def load_model():
 
 model, feature_names = load_model()
 
-# ========== Custom CSS for Geotechnical Theme ==========
+# ========== Custom CSS ==========
 st.markdown("""
     <style>
         /* Main background */
