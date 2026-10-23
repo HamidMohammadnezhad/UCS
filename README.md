@@ -1,6 +1,4 @@
 # UCS Prediction App
-### Explainable Machine Learning for the Unconfined Compressive Strength Prediction of Stabilized Clayey Soils
-
 ## Overview
 
 The **UCS Prediction App** is a web-based application developed using Streamlit to estimate the unconfined compressive strength (UCS) of stabilized clayey soils using a trained Gradient Boosting regression model.
